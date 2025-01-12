@@ -1,0 +1,79 @@
+[
+    {
+        "id": "1",
+        "cataract": "two",
+        "category": "All Products",
+        "slug": "cotton-taqiyah-blue"
+    },
+    {
+        "id": "2",
+        "cataract": "two",
+        "category": "Plain Taqiyah",
+        "slug": "woolen-taqiyah-black"
+    },
+    {
+        "id": "3",
+        "cataract": "two",
+        "category": "Embroidered Taqiyah",
+        "slug": "woolen-taqiyah-black"
+    },
+    {
+        "id": "4",
+        "cataract": "two",
+        "category":"Kids Taqiyah",
+        "slug": "woolen-taqiyah-black"
+    },
+    {
+        "id": "5",
+        "cataract": "two",
+        "category": "Travel Taqiyah",
+        "slug": "woolen-taqiyah-black"
+    },
+    {
+        "id": "6",
+        "cataract": "two",
+        "category": "Sports Taqiyah",
+        "slug": "cotton-taqiyah-white"
+    },
+    {
+        "id": "7",
+        "cataract": "two",
+        "category": "Handmade Taqiyah",
+        "slug": "taqiyah-storage-box"
+    },
+    {
+        "id": "8",
+        "category": "Traditional Taqiyah",
+        "slug": "taqiyah-stand"
+    },
+    {
+        "id": "9",
+        "category": "Fashion Taqiyah",
+        "slug": "taqiyah-stand"
+    },
+    {
+        "id": "10",
+        "category": "Casual Taqiyah",
+        "slug": "taqiyah-stand"
+    },
+    {
+        "id": "11",
+        "category": "Festive Wear",
+        "slug": "taqiyah-stand"
+    },
+    {
+        "id": "12",
+        "category": "Luxury Taqiyah",
+        "slug": "taqiyah-stand"
+    },
+    {
+        "id": "13",
+        "category": "Cultural Taqiyah",
+        "slug": "taqiyah-stand"
+    },
+    {
+        "id": "14",
+        "category": "Others",
+        "slug": "taqiyah-stand"
+    }
+]

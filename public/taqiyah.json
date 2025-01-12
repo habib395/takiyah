@@ -1,0 +1,2593 @@
+[
+  {
+    "product_id": "1",
+    "product_title": "Classic Cotton Taqiyah",
+    "product_image": "https://i.ibb.co.com/c2R18Zd/plain-one.png",
+    "category": "Plain Taqiyah",
+    "price": 10.00,
+    "description": "Traditional cotton taqiyah, lightweight and breathable.",
+    "Specification": [
+      "Material: 100% Cotton",
+      "Size: One size fits most",
+      "Color: White",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Islamic Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "2",
+    "product_title": "Classic Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/R4GPhZv/embo-one.png",
+    "category": "Embroidered Taqiyah",
+    "price": 15.00,
+    "description": "Elegant taqiyah with intricate embroidery for special occasions.",
+    "Specification": [
+      "Material: Polyester blend",
+      "Size: Medium",
+      "Color: Black with Gold Embroidery",
+      "Pattern: Geometric Design"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "Muslim Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "3",
+    "product_title": "Classical Crocheted Taqiyah",
+    "product_image": "https://i.ibb.co.com/gP32sZY/hand-one.png",
+    "category": "Handmade Taqiyah",
+    "price": 10.00,
+    "description": "Handmade crocheted taqiyah for a unique style.",
+    "Specification": [
+      "Material: Cotton Yarn",
+      "Size: Adjustable",
+      "Color: White and Green",
+      "Pattern: Circular Crochet"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "brand": "Handcrafted Islamic",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "4",
+    "product_title": "Premium Classic Silk Taqiyah",
+    "product_image": "https://i.ibb.co.com/jZqJB14/lux-one.png",
+    "category": "Luxury Taqiyah",
+    "price": 25.00,
+    "description": "Luxurious silk taqiyah for formal occasions.",
+    "Specification": [
+      "Material: 100% Silk",
+      "Size: Large",
+      "Color: Navy Blue",
+      "Pattern: Solid with Satin Finish"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "brand": "Elegant Muslim Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "5",
+    "product_title": "Classical Child Taqiyah",
+    "product_image": "https://i.ibb.co.com/zRZBLyC/kid-one.png",
+    "category": "Kids Taqiyah",
+    "price": 7.00,
+    "description": "Comfortable and lightweight taqiyah designed for children.",
+    "Specification": [
+      "Material: Soft Cotton",
+      "Size: Small (Child-size)",
+      "Color: Light Blue",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Little Muslims",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "6",
+    "product_title": "Classic Travel Taqiyah",
+    "product_image": "https://i.ibb.co.com/jLVVzbW/tra-one.png",
+    "category": "Travel Taqiyah",
+    "price": 7.50,
+    "description": "Convenient foldable taqiyah for travelers.",
+    "Specification": [
+      "Material: Polyester",
+      "Size: One size fits most",
+      "Color: Grey",
+      "Pattern: Plain with Elastic Band"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Travel Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "7",
+    "product_title": "Classic Breathable Taqiyah",
+    "product_image": "https://i.ibb.co.com/Mh9ycfr/sport-one.png",
+    "category": "Sports Taqiyah",
+    "price": 5.00,
+    "description": "Breathable mesh taqiyah ideal for hot weather.",
+    "Specification": [
+      "Material: Mesh Polyester",
+      "Size: Medium",
+      "Color: White",
+      "Pattern: Mesh Design"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "brand": "Cool Comfort",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "8",
+    "product_title": "Turkish classic Style Taqiyah",
+    "product_image": "https://i.ibb.co.com/0fWwqKc/cul-one.png",
+    "category": "Cultural Taqiyah",
+    "price": 14.00,
+    "description": "Authentic Turkish design taqiyah with detailed patterns.",
+    "Specification": [
+      "Material: Blended Fabric",
+      "Size: Large",
+      "Color: Maroon with Gold",
+      "Pattern: Traditional Turkish Embroidery"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "brand": "Ottoman Collection",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "9",
+    "product_title": "Classic Kufi Taqiyah",
+    "product_image": "https://i.ibb.co.com/cw8J89d/tion-one.png",
+    "category": "Traditional Taqiyah",
+    "price": 7.00,
+    "description": "Simple and traditional kufi style taqiyah.",
+    "Specification": [
+      "Material: Acrylic",
+      "Size: One size fits all",
+      "Color: Black",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "brand": "Traditional Muslim Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "10",
+    "product_title": "Classical Designer Taqiyah",
+    "product_image": "https://i.ibb.co.com/hDhZmyP/fashion-one.png",
+    "category": "Fashion Taqiyah",
+    "price": 12.00,
+    "description": "Stylish designer taqiyah with unique patterns.",
+    "Specification": [
+      "Material: Wool Blend",
+      "Size: Adjustable",
+      "Color: Multi-color",
+      "Pattern: Abstract"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Muslim Fashion",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "11",
+    "product_title": "Festive Classic Gold Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/TYB6vP7/fes-one.png",
+    "category": "Festive Wear",
+    "price": 18.00,
+    "description": "Beautiful gold-embroidered taqiyah for festive occasions.",
+    "Specification": [
+      "Material: Satin",
+      "Size: One size fits all",
+      "Color: White and Gold",
+      "Pattern: Ornamental"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Gold Shine Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "12",
+    "product_title": "Everyday classic Lightweight Taqiyah",
+    "product_image": "https://i.ibb.co.com/tM6ryJg/casual-one.png",
+    "category": "Casual Taqiyah",
+    "price": 5.00,
+    "description": "Affordable and lightweight taqiyah for daily wear.",
+    "Specification": [
+      "Material: Cotton",
+      "Size: Medium",
+      "Color: Off-white",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.1,
+    "brand": "Daily Comforts",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "13",
+    "product_title": "Meterial Cotton Taqiyah",
+    "product_image": "https://i.ibb.co.com/mF6TqKZ/plain-three.png",
+    "category": "Plain Taqiyah",
+    "price": 8.00,
+    "description": "Traditional cotton taqiyah, lightweight and breathable.",
+    "Specification": [
+      "Material: 100% Cotton",
+      "Size: One size fits most",
+      "Color: White",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Islamic Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "14",
+    "product_title": " Meterial Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/KKNY8fn/embo-two.png",
+    "category": "Embroidered Taqiyah",
+    "price": 16.00,
+    "description": "Elegant taqiyah with intricate embroidery for special occasions.",
+    "Specification": [
+      "Material: Polyester blend",
+      "Size: Medium",
+      "Color: Black with Gold Embroidery",
+      "Pattern: Geometric Design"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "Muslim Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "15",
+    "product_title": "Meterial Crocheted Taqiyah",
+    "product_image": "https://i.ibb.co.com/D45mmGd/hand-two.png",
+    "category": "Handmade Taqiyah",
+    "price": 12.00,
+    "description": "Handmade crocheted taqiyah for a unique style.",
+    "Specification": [
+      "Material: Cotton Yarn",
+      "Size: Adjustable",
+      "Color: White and Green",
+      "Pattern: Circular Crochet"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "brand": "Handcrafted Islamic",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "16",
+    "product_title": "Premium Metarial Silk Taqiyah",
+    "product_image": "https://i.ibb.co.com/r0phbNx/lux-two.png",
+    "category": "Luxury Taqiyah",
+    "price": 27.00,
+    "description": "Luxurious silk taqiyah for formal occasions.",
+    "Specification": [
+      "Material: 100% Silk",
+      "Size: Large",
+      "Color: Navy Blue",
+      "Pattern: Solid with Satin Finish"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "brand": "Elegant Muslim Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "17",
+    "product_title": "Meterial Child Taqiyah",
+    "product_image": "https://i.ibb.co.com/r71VxrR/kid-two.png",
+    "category": "Kids Taqiyah",
+    "price": 9.00,
+    "description": "Comfortable and lightweight taqiyah designed for children.",
+    "Specification": [
+      "Material: Soft Cotton",
+      "Size: Small (Child-size)",
+      "Color: Light Blue",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Little Muslims",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "18",
+    "product_title": "Meterial Travel Taqiyah",
+    "product_image": "https://i.ibb.co.com/1RzBzyQ/tra-two.png",
+    "category": "Travel Taqiyah",
+    "price": 9.50,
+    "description": "Convenient foldable taqiyah for travelers.",
+    "Specification": [
+      "Material: Polyester",
+      "Size: One size fits most",
+      "Color: Grey",
+      "Pattern: Plain with Elastic Band"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Travel Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "19",
+    "product_title": "Meterial Breathable Taqiyah",
+    "product_image": "https://i.ibb.co.com/CQs6B1g/sport-two.png",
+    "category": "Sports Taqiyah",
+    "price": 7.00,
+    "description": "Breathable mesh taqiyah ideal for hot weather.",
+    "Specification": [
+      "Material: Mesh Polyester",
+      "Size: Medium",
+      "Color: White",
+      "Pattern: Mesh Design"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "brand": "Cool Comfort",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "20",
+    "product_title": "Turkish Metarials Style Taqiyah",
+    "product_image": "https://i.ibb.co.com/grcyNpy/cul-two.png",
+    "category": "Cultural Taqiyah",
+    "price": 18.00,
+    "description": "Authentic Turkish design taqiyah with detailed patterns.",
+    "Specification": [
+      "Material: Blended Fabric",
+      "Size: Large",
+      "Color: Maroon with Gold",
+      "Pattern: Traditional Turkish Embroidery"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "brand": "Ottoman Collection",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "21",
+    "product_title": "Meterial Kufi Taqiyah",
+    "product_image": "https://i.ibb.co.com/0D5rRZz/tion-two.png",
+    "category": "Traditional Taqiyah",
+    "price": 10.00,
+    "description": "Simple and traditional kufi style taqiyah.",
+    "Specification": [
+      "Material: Acrylic",
+      "Size: One size fits all",
+      "Color: Black",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "brand": "Traditional Muslim Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "22",
+    "product_title": "Meterial Designer Taqiyah",
+    "product_image": "https://i.ibb.co.com/YkJkKwT/fashion-two.png",
+    "category": "Fashion Taqiyah",
+    "price": 16.00,
+    "description": "Stylish designer taqiyah with unique patterns.",
+    "Specification": [
+      "Material: Wool Blend",
+      "Size: Adjustable",
+      "Color: Multi-color",
+      "Pattern: Abstract"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Muslim Fashion",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "23",
+    "product_title": "Festive Metarial Gold Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/5WBNyHW/fas-two.png",
+    "category": "Festive Wear",
+    "price": 12.00,
+    "description": "Beautiful gold-embroidered taqiyah for festive occasions.",
+    "Specification": [
+      "Material: Satin",
+      "Size: One size fits all",
+      "Color: White and Gold",
+      "Pattern: Ornamental"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Gold Shine Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "24",
+    "product_title": "Everyday Metarial Lightweight Taqiyah",
+    "product_image": "https://i.ibb.co.com/DQkDZHX/casuyal-two.png",
+    "category": "Casual Taqiyah",
+    "price": 6.00,
+    "description": "Affordable and lightweight taqiyah for daily wear.",
+    "Specification": [
+      "Material: Cotton",
+      "Size: Medium",
+      "Color: Off-white",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.1,
+    "brand": "Daily Comforts",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "25",
+    "product_title": "Plastic Cotton Taqiyah",
+    "product_image": "https://i.ibb.co.com/Swv2xH3/plain-two.png",
+    "category": "Plain Taqiyah",
+    "price": 9.00,
+    "description": "Traditional cotton taqiyah, lightweight and breathable.",
+    "Specification": [
+      "Material: 100% Cotton",
+      "Size: One size fits most",
+      "Color: White",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Islamic Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "26",
+    "product_title": "Plastic Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/859dWKQ/embo-three.png",
+    "category": "Embroidered Taqiyah",
+    "price": 12.00,
+    "description": "Elegant taqiyah with intricate embroidery for special occasions.",
+    "Specification": [
+      "Material: Polyester blend",
+      "Size: Medium",
+      "Color: Black with Gold Embroidery",
+      "Pattern: Geometric Design"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "Muslim Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "27",
+    "product_title": "Plastic Crocheted Taqiyah",
+    "product_image": "https://i.ibb.co.com/XVgQKvY/hand-three.png",
+    "category": "Handmade Taqiyah",
+    "price": 11.00,
+    "description": "Handmade crocheted taqiyah for a unique style.",
+    "Specification": [
+      "Material: Cotton Yarn",
+      "Size: Adjustable",
+      "Color: White and Green",
+      "Pattern: Circular Crochet"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "brand": "Handcrafted Islamic",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "28",
+    "product_title": "Premium Silk Taqiyah",
+    "product_image": "https://i.ibb.co.com/MBY9cq3/lux-three.png",
+    "category": "Luxury Taqiyah",
+    "price": 27.00,
+    "description": "Luxurious silk taqiyah for formal occasions.",
+    "Specification": [
+      "Material: 100% Silk",
+      "Size: Large",
+      "Color: Navy Blue",
+      "Pattern: Solid with Satin Finish"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "brand": "Elegant Muslim Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "29",
+    "product_title": "Plastic Child Taqiyah",
+    "product_image": "https://i.ibb.co.com/J3KxJLG/kid-three.png",
+    "category": "Kids Taqiyah",
+    "price": 8.00,
+    "description": "Comfortable and lightweight taqiyah designed for children.",
+    "Specification": [
+      "Material: Soft Cotton",
+      "Size: Small (Child-size)",
+      "Color: Light Blue",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Little Muslims",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "30",
+    "product_title": "Plastic Travel Taqiyah",
+    "product_image": "https://i.ibb.co.com/180bwxS/tra-three.png",
+    "category": "Travel Taqiyah",
+    "price": 6.50,
+    "description": "Convenient foldable taqiyah for travelers.",
+    "Specification": [
+      "Material: Polyester",
+      "Size: One size fits most",
+      "Color: Grey",
+      "Pattern: Plain with Elastic Band"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Travel Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "31",
+    "product_title": "Plastic Breathable Taqiyah",
+    "product_image": "https://i.ibb.co.com/8ryc8fR/sport-three.png",
+    "category": "Sports Taqiyah",
+    "price": 4.50,
+    "description": "Breathable mesh taqiyah ideal for hot weather.",
+    "Specification": [
+      "Material: Mesh Polyester",
+      "Size: Medium",
+      "Color: White",
+      "Pattern: Mesh Design"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "brand": "Cool Comfort",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "32",
+    "product_title": "Turkish Plastic Style Taqiyah",
+    "product_image": "https://i.ibb.co.com/D5Lq5s3/cul-three.png",
+    "category": "Cultural Taqiyah",
+    "price": 17.00,
+    "description": "Authentic Turkish design taqiyah with detailed patterns.",
+    "Specification": [
+      "Material: Blended Fabric",
+      "Size: Large",
+      "Color: Maroon with Gold",
+      "Pattern: Traditional Turkish Embroidery"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "brand": "Ottoman Collection",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "33",
+    "product_title": "Plastic Kufi Taqiyah",
+    "product_image": "https://i.ibb.co.com/0Z83thC/tion-three.png",
+    "category": "Traditional Taqiyah",
+    "price": 12.00,
+    "description": "Simple and traditional kufi style taqiyah.",
+    "Specification": [
+      "Material: Acrylic",
+      "Size: One size fits all",
+      "Color: Black",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "brand": "Traditional Muslim Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "34",
+    "product_title": "Plastic Designer Taqiyah",
+    "product_image": "https://i.ibb.co.com/z7W1Nkb/fashion-three.png",
+    "category": "Fashion Taqiyah",
+    "price": 18.00,
+    "description": "Stylish designer taqiyah with unique patterns.",
+    "Specification": [
+      "Material: Wool Blend",
+      "Size: Adjustable",
+      "Color: Multi-color",
+      "Pattern: Abstract"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Muslim Fashion",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "35",
+    "product_title": "Festive Plastic Gold Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/PMzsFYK/fas-three.png",
+    "category": "Festive Wear",
+    "price": 16.00,
+    "description": "Beautiful gold-embroidered taqiyah for festive occasions.",
+    "Specification": [
+      "Material: Satin",
+      "Size: One size fits all",
+      "Color: White and Gold",
+      "Pattern: Ornamental"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Gold Shine Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "36",
+    "product_title": "Everyday Plastic Lightweight Taqiyah",
+    "product_image": "https://i.ibb.co.com/q0GVxzY/casuyal-three.png",
+    "category": "Casual Taqiyah",
+    "price": 7.00,
+    "description": "Affordable and lightweight taqiyah for daily wear.",
+    "Specification": [
+      "Material: Cotton",
+      "Size: Medium",
+      "Color: Off-white",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.1,
+    "brand": "Daily Comforts",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "37",
+    "product_title": "Classic Cotton Taqiyah",
+    "product_image": "https://i.ibb.co.com/c2R18Zd/plain-one.png",
+    "category": "Plain Taqiyah",
+    "price": 10.00,
+    "description": "Traditional cotton taqiyah, lightweight and breathable.",
+    "Specification": [
+      "Material: 100% Cotton",
+      "Size: One size fits most",
+      "Color: White",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Islamic Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "38",
+    "product_title": "Classic Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/R4GPhZv/embo-one.png",
+    "category": "Embroidered Taqiyah",
+    "price": 15.00,
+    "description": "Elegant taqiyah with intricate embroidery for special occasions.",
+    "Specification": [
+      "Material: Polyester blend",
+      "Size: Medium",
+      "Color: Black with Gold Embroidery",
+      "Pattern: Geometric Design"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "Muslim Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "39",
+    "product_title": "Classical Crocheted Taqiyah",
+    "product_image": "https://i.ibb.co.com/gP32sZY/hand-one.png",
+    "category": "Handmade Taqiyah",
+    "price": 10.00,
+    "description": "Handmade crocheted taqiyah for a unique style.",
+    "Specification": [
+      "Material: Cotton Yarn",
+      "Size: Adjustable",
+      "Color: White and Green",
+      "Pattern: Circular Crochet"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "brand": "Handcrafted Islamic",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "40",
+    "product_title": "Premium Classic Silk Taqiyah",
+    "product_image": "https://i.ibb.co.com/jZqJB14/lux-one.png",
+    "category": "Luxury Taqiyah",
+    "price": 25.00,
+    "description": "Luxurious silk taqiyah for formal occasions.",
+    "Specification": [
+      "Material: 100% Silk",
+      "Size: Large",
+      "Color: Navy Blue",
+      "Pattern: Solid with Satin Finish"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "brand": "Elegant Muslim Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "41",
+    "product_title": "Classical Child Taqiyah",
+    "product_image": "https://i.ibb.co.com/zRZBLyC/kid-one.png",
+    "category": "Kids Taqiyah",
+    "price": 7.00,
+    "description": "Comfortable and lightweight taqiyah designed for children.",
+    "Specification": [
+      "Material: Soft Cotton",
+      "Size: Small (Child-size)",
+      "Color: Light Blue",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Little Muslims",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "42",
+    "product_title": "Classic Travel Taqiyah",
+    "product_image": "https://i.ibb.co.com/jLVVzbW/tra-one.png",
+    "category": "Travel Taqiyah",
+    "price": 7.50,
+    "description": "Convenient foldable taqiyah for travelers.",
+    "Specification": [
+      "Material: Polyester",
+      "Size: One size fits most",
+      "Color: Grey",
+      "Pattern: Plain with Elastic Band"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Travel Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "43",
+    "product_title": "Classic Breathable Taqiyah",
+    "product_image": "https://i.ibb.co.com/Mh9ycfr/sport-one.png",
+    "category": "Sports Taqiyah",
+    "price": 5.00,
+    "description": "Breathable mesh taqiyah ideal for hot weather.",
+    "Specification": [
+      "Material: Mesh Polyester",
+      "Size: Medium",
+      "Color: White",
+      "Pattern: Mesh Design"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "brand": "Cool Comfort",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "44",
+    "product_title": "Turkish classic Style Taqiyah",
+    "product_image": "https://i.ibb.co.com/0fWwqKc/cul-one.png",
+    "category": "Cultural Taqiyah",
+    "price": 14.00,
+    "description": "Authentic Turkish design taqiyah with detailed patterns.",
+    "Specification": [
+      "Material: Blended Fabric",
+      "Size: Large",
+      "Color: Maroon with Gold",
+      "Pattern: Traditional Turkish Embroidery"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "brand": "Ottoman Collection",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "45",
+    "product_title": "Classic Kufi Taqiyah",
+    "product_image": "https://i.ibb.co.com/cw8J89d/tion-one.png",
+    "category": "Traditional Taqiyah",
+    "price": 7.00,
+    "description": "Simple and traditional kufi style taqiyah.",
+    "Specification": [
+      "Material: Acrylic",
+      "Size: One size fits all",
+      "Color: Black",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "brand": "Traditional Muslim Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "46",
+    "product_title": "Classical Designer Taqiyah",
+    "product_image": "https://i.ibb.co.com/hDhZmyP/fashion-one.png",
+    "category": "Fashion Taqiyah",
+    "price": 12.00,
+    "description": "Stylish designer taqiyah with unique patterns.",
+    "Specification": [
+      "Material: Wool Blend",
+      "Size: Adjustable",
+      "Color: Multi-color",
+      "Pattern: Abstract"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Muslim Fashion",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "47",
+    "product_title": "Festive Classic Gold Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/TYB6vP7/fes-one.png",
+    "category": "Festive Wear",
+    "price": 18.00,
+    "description": "Beautiful gold-embroidered taqiyah for festive occasions.",
+    "Specification": [
+      "Material: Satin",
+      "Size: One size fits all",
+      "Color: White and Gold",
+      "Pattern: Ornamental"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Gold Shine Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "48",
+    "product_title": "Everyday classic Lightweight Taqiyah",
+    "product_image": "https://i.ibb.co.com/tM6ryJg/casual-one.png",
+    "category": "Casual Taqiyah",
+    "price": 5.00,
+    "description": "Affordable and lightweight taqiyah for daily wear.",
+    "Specification": [
+      "Material: Cotton",
+      "Size: Medium",
+      "Color: Off-white",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.1,
+    "brand": "Daily Comforts",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "49",
+    "product_title": "Meterial Cotton Taqiyah",
+    "product_image": "https://i.ibb.co.com/mF6TqKZ/plain-three.png",
+    "category": "Plain Taqiyah",
+    "price": 8.00,
+    "description": "Traditional cotton taqiyah, lightweight and breathable.",
+    "Specification": [
+      "Material: 100% Cotton",
+      "Size: One size fits most",
+      "Color: White",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Islamic Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "50",
+    "product_title": " Meterial Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/KKNY8fn/embo-two.png",
+    "category": "Embroidered Taqiyah",
+    "price": 16.00,
+    "description": "Elegant taqiyah with intricate embroidery for special occasions.",
+    "Specification": [
+      "Material: Polyester blend",
+      "Size: Medium",
+      "Color: Black with Gold Embroidery",
+      "Pattern: Geometric Design"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "Muslim Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "51",
+    "product_title": "Meterial Crocheted Taqiyah",
+    "product_image": "https://i.ibb.co.com/D45mmGd/hand-two.png",
+    "category": "Handmade Taqiyah",
+    "price": 12.00,
+    "description": "Handmade crocheted taqiyah for a unique style.",
+    "Specification": [
+      "Material: Cotton Yarn",
+      "Size: Adjustable",
+      "Color: White and Green",
+      "Pattern: Circular Crochet"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "brand": "Handcrafted Islamic",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "52",
+    "product_title": "Premium Metarial Silk Taqiyah",
+    "product_image": "https://i.ibb.co.com/r0phbNx/lux-two.png",
+    "category": "Luxury Taqiyah",
+    "price": 27.00,
+    "description": "Luxurious silk taqiyah for formal occasions.",
+    "Specification": [
+      "Material: 100% Silk",
+      "Size: Large",
+      "Color: Navy Blue",
+      "Pattern: Solid with Satin Finish"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "brand": "Elegant Muslim Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "53",
+    "product_title": "Meterial Child Taqiyah",
+    "product_image": "https://i.ibb.co.com/r71VxrR/kid-two.png",
+    "category": "Kids Taqiyah",
+    "price": 9.00,
+    "description": "Comfortable and lightweight taqiyah designed for children.",
+    "Specification": [
+      "Material: Soft Cotton",
+      "Size: Small (Child-size)",
+      "Color: Light Blue",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Little Muslims",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "54",
+    "product_title": "Meterial Travel Taqiyah",
+    "product_image": "https://i.ibb.co.com/1RzBzyQ/tra-two.png",
+    "category": "Travel Taqiyah",
+    "price": 9.50,
+    "description": "Convenient foldable taqiyah for travelers.",
+    "Specification": [
+      "Material: Polyester",
+      "Size: One size fits most",
+      "Color: Grey",
+      "Pattern: Plain with Elastic Band"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Travel Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "55",
+    "product_title": "Meterial Breathable Taqiyah",
+    "product_image": "https://i.ibb.co.com/CQs6B1g/sport-two.png",
+    "category": "Sports Taqiyah",
+    "price": 7.00,
+    "description": "Breathable mesh taqiyah ideal for hot weather.",
+    "Specification": [
+      "Material: Mesh Polyester",
+      "Size: Medium",
+      "Color: White",
+      "Pattern: Mesh Design"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "brand": "Cool Comfort",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "56",
+    "product_title": "Turkish Metarials Style Taqiyah",
+    "product_image": "https://i.ibb.co.com/grcyNpy/cul-two.png",
+    "category": "Cultural Taqiyah",
+    "price": 18.00,
+    "description": "Authentic Turkish design taqiyah with detailed patterns.",
+    "Specification": [
+      "Material: Blended Fabric",
+      "Size: Large",
+      "Color: Maroon with Gold",
+      "Pattern: Traditional Turkish Embroidery"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "brand": "Ottoman Collection",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "57",
+    "product_title": "Meterial Kufi Taqiyah",
+    "product_image": "https://i.ibb.co.com/0D5rRZz/tion-two.png",
+    "category": "Traditional Taqiyah",
+    "price": 10.00,
+    "description": "Simple and traditional kufi style taqiyah.",
+    "Specification": [
+      "Material: Acrylic",
+      "Size: One size fits all",
+      "Color: Black",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "brand": "Traditional Muslim Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "58",
+    "product_title": "Meterial Designer Taqiyah",
+    "product_image": "https://i.ibb.co.com/YkJkKwT/fashion-two.png",
+    "category": "Fashion Taqiyah",
+    "price": 16.00,
+    "description": "Stylish designer taqiyah with unique patterns.",
+    "Specification": [
+      "Material: Wool Blend",
+      "Size: Adjustable",
+      "Color: Multi-color",
+      "Pattern: Abstract"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Muslim Fashion",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "59",
+    "product_title": "Festive Metarial Gold Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/5WBNyHW/fas-two.png",
+    "category": "Festive Wear",
+    "price": 12.00,
+    "description": "Beautiful gold-embroidered taqiyah for festive occasions.",
+    "Specification": [
+      "Material: Satin",
+      "Size: One size fits all",
+      "Color: White and Gold",
+      "Pattern: Ornamental"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Gold Shine Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "60",
+    "product_title": "Everyday Metarial Lightweight Taqiyah",
+    "product_image": "https://i.ibb.co.com/DQkDZHX/casuyal-two.png",
+    "category": "Casual Taqiyah",
+    "price": 6.00,
+    "description": "Affordable and lightweight taqiyah for daily wear.",
+    "Specification": [
+      "Material: Cotton",
+      "Size: Medium",
+      "Color: Off-white",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.1,
+    "brand": "Daily Comforts",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "61",
+    "product_title": "Plastic Cotton Taqiyah",
+    "product_image": "https://i.ibb.co.com/Swv2xH3/plain-two.png",
+    "category": "Plain Taqiyah",
+    "price": 9.00,
+    "description": "Traditional cotton taqiyah, lightweight and breathable.",
+    "Specification": [
+      "Material: 100% Cotton",
+      "Size: One size fits most",
+      "Color: White",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Islamic Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "62",
+    "product_title": "Plastic Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/859dWKQ/embo-three.png",
+    "category": "Embroidered Taqiyah",
+    "price": 12.00,
+    "description": "Elegant taqiyah with intricate embroidery for special occasions.",
+    "Specification": [
+      "Material: Polyester blend",
+      "Size: Medium",
+      "Color: Black with Gold Embroidery",
+      "Pattern: Geometric Design"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "Muslim Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "63",
+    "product_title": "Plastic Crocheted Taqiyah",
+    "product_image": "https://i.ibb.co.com/XVgQKvY/hand-three.png",
+    "category": "Handmade Taqiyah",
+    "price": 11.00,
+    "description": "Handmade crocheted taqiyah for a unique style.",
+    "Specification": [
+      "Material: Cotton Yarn",
+      "Size: Adjustable",
+      "Color: White and Green",
+      "Pattern: Circular Crochet"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "brand": "Handcrafted Islamic",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "64",
+    "product_title": "Premium Silk Taqiyah",
+    "product_image": "https://i.ibb.co.com/MBY9cq3/lux-three.png",
+    "category": "Luxury Taqiyah",
+    "price": 27.00,
+    "description": "Luxurious silk taqiyah for formal occasions.",
+    "Specification": [
+      "Material: 100% Silk",
+      "Size: Large",
+      "Color: Navy Blue",
+      "Pattern: Solid with Satin Finish"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "brand": "Elegant Muslim Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "65",
+    "product_title": "Plastic Child Taqiyah",
+    "product_image": "https://i.ibb.co.com/J3KxJLG/kid-three.png",
+    "category": "Kids Taqiyah",
+    "price": 8.00,
+    "description": "Comfortable and lightweight taqiyah designed for children.",
+    "Specification": [
+      "Material: Soft Cotton",
+      "Size: Small (Child-size)",
+      "Color: Light Blue",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Little Muslims",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "66",
+    "product_title": "Plastic Travel Taqiyah",
+    "product_image": "https://i.ibb.co.com/180bwxS/tra-three.png",
+    "category": "Travel Taqiyah",
+    "price": 6.50,
+    "description": "Convenient foldable taqiyah for travelers.",
+    "Specification": [
+      "Material: Polyester",
+      "Size: One size fits most",
+      "Color: Grey",
+      "Pattern: Plain with Elastic Band"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Travel Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "67",
+    "product_title": "Plastic Breathable Taqiyah",
+    "product_image": "https://i.ibb.co.com/8ryc8fR/sport-three.png",
+    "category": "Sports Taqiyah",
+    "price": 4.50,
+    "description": "Breathable mesh taqiyah ideal for hot weather.",
+    "Specification": [
+      "Material: Mesh Polyester",
+      "Size: Medium",
+      "Color: White",
+      "Pattern: Mesh Design"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "brand": "Cool Comfort",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "68",
+    "product_title": "Turkish Plastic Style Taqiyah",
+    "product_image": "https://i.ibb.co.com/D5Lq5s3/cul-three.png",
+    "category": "Cultural Taqiyah",
+    "price": 17.00,
+    "description": "Authentic Turkish design taqiyah with detailed patterns.",
+    "Specification": [
+      "Material: Blended Fabric",
+      "Size: Large",
+      "Color: Maroon with Gold",
+      "Pattern: Traditional Turkish Embroidery"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "brand": "Ottoman Collection",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "69",
+    "product_title": "Plastic Kufi Taqiyah",
+    "product_image": "https://i.ibb.co.com/0Z83thC/tion-three.png",
+    "category": "Traditional Taqiyah",
+    "price": 12.00,
+    "description": "Simple and traditional kufi style taqiyah.",
+    "Specification": [
+      "Material: Acrylic",
+      "Size: One size fits all",
+      "Color: Black",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "brand": "Traditional Muslim Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "70",
+    "product_title": "Plastic Designer Taqiyah",
+    "product_image": "https://i.ibb.co.com/z7W1Nkb/fashion-three.png",
+    "category": "Fashion Taqiyah",
+    "price": 18.00,
+    "description": "Stylish designer taqiyah with unique patterns.",
+    "Specification": [
+      "Material: Wool Blend",
+      "Size: Adjustable",
+      "Color: Multi-color",
+      "Pattern: Abstract"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Muslim Fashion",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "71",
+    "product_title": "Festive Plastic Gold Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/PMzsFYK/fas-three.png",
+    "category": "Festive Wear",
+    "price": 16.00,
+    "description": "Beautiful gold-embroidered taqiyah for festive occasions.",
+    "Specification": [
+      "Material: Satin",
+      "Size: One size fits all",
+      "Color: White and Gold",
+      "Pattern: Ornamental"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Gold Shine Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "72",
+    "product_title": "Everyday Plastic Lightweight Taqiyah",
+    "product_image": "https://i.ibb.co.com/q0GVxzY/casuyal-three.png",
+    "category": "Casual Taqiyah",
+    "price": 7.00,
+    "description": "Affordable and lightweight taqiyah for daily wear.",
+    "Specification": [
+      "Material: Cotton",
+      "Size: Medium",
+      "Color: Off-white",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.1,
+    "brand": "Daily Comforts",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "73",
+    "product_title": "Classic Cotton Taqiyah",
+    "product_image": "https://i.ibb.co.com/c2R18Zd/plain-one.png",
+    "category": "Plain Taqiyah",
+    "price": 10.00,
+    "description": "Traditional cotton taqiyah, lightweight and breathable.",
+    "Specification": [
+      "Material: 100% Cotton",
+      "Size: One size fits most",
+      "Color: White",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Islamic Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "74",
+    "product_title": "Classic Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/R4GPhZv/embo-one.png",
+    "category": "Embroidered Taqiyah",
+    "price": 15.00,
+    "description": "Elegant taqiyah with intricate embroidery for special occasions.",
+    "Specification": [
+      "Material: Polyester blend",
+      "Size: Medium",
+      "Color: Black with Gold Embroidery",
+      "Pattern: Geometric Design"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "Muslim Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "75",
+    "product_title": "Classical Crocheted Taqiyah",
+    "product_image": "https://i.ibb.co.com/gP32sZY/hand-one.png",
+    "category": "Handmade Taqiyah",
+    "price": 10.00,
+    "description": "Handmade crocheted taqiyah for a unique style.",
+    "Specification": [
+      "Material: Cotton Yarn",
+      "Size: Adjustable",
+      "Color: White and Green",
+      "Pattern: Circular Crochet"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "brand": "Handcrafted Islamic",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "76",
+    "product_title": "Premium Classic Silk Taqiyah",
+    "product_image": "https://i.ibb.co.com/jZqJB14/lux-one.png",
+    "category": "Luxury Taqiyah",
+    "price": 25.00,
+    "description": "Luxurious silk taqiyah for formal occasions.",
+    "Specification": [
+      "Material: 100% Silk",
+      "Size: Large",
+      "Color: Navy Blue",
+      "Pattern: Solid with Satin Finish"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "brand": "Elegant Muslim Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "77",
+    "product_title": "Classical Child Taqiyah",
+    "product_image": "https://i.ibb.co.com/zRZBLyC/kid-one.png",
+    "category": "Kids Taqiyah",
+    "price": 7.00,
+    "description": "Comfortable and lightweight taqiyah designed for children.",
+    "Specification": [
+      "Material: Soft Cotton",
+      "Size: Small (Child-size)",
+      "Color: Light Blue",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Little Muslims",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "78",
+    "product_title": "Classic Travel Taqiyah",
+    "product_image": "https://i.ibb.co.com/jLVVzbW/tra-one.png",
+    "category": "Travel Taqiyah",
+    "price": 7.50,
+    "description": "Convenient foldable taqiyah for travelers.",
+    "Specification": [
+      "Material: Polyester",
+      "Size: One size fits most",
+      "Color: Grey",
+      "Pattern: Plain with Elastic Band"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Travel Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "79",
+    "product_title": "Classic Breathable Taqiyah",
+    "product_image": "https://i.ibb.co.com/Mh9ycfr/sport-one.png",
+    "category": "Sports Taqiyah",
+    "price": 5.00,
+    "description": "Breathable mesh taqiyah ideal for hot weather.",
+    "Specification": [
+      "Material: Mesh Polyester",
+      "Size: Medium",
+      "Color: White",
+      "Pattern: Mesh Design"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "brand": "Cool Comfort",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "80",
+    "product_title": "Turkish classic Style Taqiyah",
+    "product_image": "https://i.ibb.co.com/0fWwqKc/cul-one.png",
+    "category": "Cultural Taqiyah",
+    "price": 14.00,
+    "description": "Authentic Turkish design taqiyah with detailed patterns.",
+    "Specification": [
+      "Material: Blended Fabric",
+      "Size: Large",
+      "Color: Maroon with Gold",
+      "Pattern: Traditional Turkish Embroidery"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "brand": "Ottoman Collection",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "81",
+    "product_title": "Classic Kufi Taqiyah",
+    "product_image": "https://i.ibb.co.com/cw8J89d/tion-one.png",
+    "category": "Traditional Taqiyah",
+    "price": 7.00,
+    "description": "Simple and traditional kufi style taqiyah.",
+    "Specification": [
+      "Material: Acrylic",
+      "Size: One size fits all",
+      "Color: Black",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "brand": "Traditional Muslim Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "82",
+    "product_title": "Classical Designer Taqiyah",
+    "product_image": "https://i.ibb.co.com/hDhZmyP/fashion-one.png",
+    "category": "Fashion Taqiyah",
+    "price": 12.00,
+    "description": "Stylish designer taqiyah with unique patterns.",
+    "Specification": [
+      "Material: Wool Blend",
+      "Size: Adjustable",
+      "Color: Multi-color",
+      "Pattern: Abstract"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Muslim Fashion",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "83",
+    "product_title": "Festive Classic Gold Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/TYB6vP7/fes-one.png",
+    "category": "Festive Wear",
+    "price": 18.00,
+    "description": "Beautiful gold-embroidered taqiyah for festive occasions.",
+    "Specification": [
+      "Material: Satin",
+      "Size: One size fits all",
+      "Color: White and Gold",
+      "Pattern: Ornamental"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Gold Shine Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "84",
+    "product_title": "Everyday classic Lightweight Taqiyah",
+    "product_image": "https://i.ibb.co.com/tM6ryJg/casual-one.png",
+    "category": "Casual Taqiyah",
+    "price": 5.00,
+    "description": "Affordable and lightweight taqiyah for daily wear.",
+    "Specification": [
+      "Material: Cotton",
+      "Size: Medium",
+      "Color: Off-white",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.1,
+    "brand": "Daily Comforts",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "85",
+    "product_title": "Meterial Cotton Taqiyah",
+    "product_image": "https://i.ibb.co.com/mF6TqKZ/plain-three.png",
+    "category": "Plain Taqiyah",
+    "price": 8.00,
+    "description": "Traditional cotton taqiyah, lightweight and breathable.",
+    "Specification": [
+      "Material: 100% Cotton",
+      "Size: One size fits most",
+      "Color: White",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Islamic Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "86",
+    "product_title": " Meterial Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/KKNY8fn/embo-two.png",
+    "category": "Embroidered Taqiyah",
+    "price": 16.00,
+    "description": "Elegant taqiyah with intricate embroidery for special occasions.",
+    "Specification": [
+      "Material: Polyester blend",
+      "Size: Medium",
+      "Color: Black with Gold Embroidery",
+      "Pattern: Geometric Design"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "Muslim Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "87",
+    "product_title": "Meterial Crocheted Taqiyah",
+    "product_image": "https://i.ibb.co.com/D45mmGd/hand-two.png",
+    "category": "Handmade Taqiyah",
+    "price": 12.00,
+    "description": "Handmade crocheted taqiyah for a unique style.",
+    "Specification": [
+      "Material: Cotton Yarn",
+      "Size: Adjustable",
+      "Color: White and Green",
+      "Pattern: Circular Crochet"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "brand": "Handcrafted Islamic",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "88",
+    "product_title": "Premium Metarial Silk Taqiyah",
+    "product_image": "https://i.ibb.co.com/r0phbNx/lux-two.png",
+    "category": "Luxury Taqiyah",
+    "price": 27.00,
+    "description": "Luxurious silk taqiyah for formal occasions.",
+    "Specification": [
+      "Material: 100% Silk",
+      "Size: Large",
+      "Color: Navy Blue",
+      "Pattern: Solid with Satin Finish"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "brand": "Elegant Muslim Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "89",
+    "product_title": "Meterial Child Taqiyah",
+    "product_image": "https://i.ibb.co.com/r71VxrR/kid-two.png",
+    "category": "Kids Taqiyah",
+    "price": 9.00,
+    "description": "Comfortable and lightweight taqiyah designed for children.",
+    "Specification": [
+      "Material: Soft Cotton",
+      "Size: Small (Child-size)",
+      "Color: Light Blue",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Little Muslims",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "90",
+    "product_title": "Meterial Travel Taqiyah",
+    "product_image": "https://i.ibb.co.com/1RzBzyQ/tra-two.png",
+    "category": "Travel Taqiyah",
+    "price": 9.50,
+    "description": "Convenient foldable taqiyah for travelers.",
+    "Specification": [
+      "Material: Polyester",
+      "Size: One size fits most",
+      "Color: Grey",
+      "Pattern: Plain with Elastic Band"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Travel Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "91",
+    "product_title": "Meterial Breathable Taqiyah",
+    "product_image": "https://i.ibb.co.com/CQs6B1g/sport-two.png",
+    "category": "Sports Taqiyah",
+    "price": 7.00,
+    "description": "Breathable mesh taqiyah ideal for hot weather.",
+    "Specification": [
+      "Material: Mesh Polyester",
+      "Size: Medium",
+      "Color: White",
+      "Pattern: Mesh Design"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "brand": "Cool Comfort",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "92",
+    "product_title": "Turkish Metarials Style Taqiyah",
+    "product_image": "https://i.ibb.co.com/grcyNpy/cul-two.png",
+    "category": "Cultural Taqiyah",
+    "price": 18.00,
+    "description": "Authentic Turkish design taqiyah with detailed patterns.",
+    "Specification": [
+      "Material: Blended Fabric",
+      "Size: Large",
+      "Color: Maroon with Gold",
+      "Pattern: Traditional Turkish Embroidery"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "brand": "Ottoman Collection",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "93",
+    "product_title": "Meterial Kufi Taqiyah",
+    "product_image": "https://i.ibb.co.com/0D5rRZz/tion-two.png",
+    "category": "Traditional Taqiyah",
+    "price": 10.00,
+    "description": "Simple and traditional kufi style taqiyah.",
+    "Specification": [
+      "Material: Acrylic",
+      "Size: One size fits all",
+      "Color: Black",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "brand": "Traditional Muslim Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "94",
+    "product_title": "Meterial Designer Taqiyah",
+    "product_image": "https://i.ibb.co.com/YkJkKwT/fashion-two.png",
+    "category": "Fashion Taqiyah",
+    "price": 16.00,
+    "description": "Stylish designer taqiyah with unique patterns.",
+    "Specification": [
+      "Material: Wool Blend",
+      "Size: Adjustable",
+      "Color: Multi-color",
+      "Pattern: Abstract"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Muslim Fashion",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "95",
+    "product_title": "Festive Metarial Gold Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/5WBNyHW/fas-two.png",
+    "category": "Festive Wear",
+    "price": 12.00,
+    "description": "Beautiful gold-embroidered taqiyah for festive occasions.",
+    "Specification": [
+      "Material: Satin",
+      "Size: One size fits all",
+      "Color: White and Gold",
+      "Pattern: Ornamental"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Gold Shine Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "96",
+    "product_title": "Everyday Metarial Lightweight Taqiyah",
+    "product_image": "https://i.ibb.co.com/DQkDZHX/casuyal-two.png",
+    "category": "Casual Taqiyah",
+    "price": 6.00,
+    "description": "Affordable and lightweight taqiyah for daily wear.",
+    "Specification": [
+      "Material: Cotton",
+      "Size: Medium",
+      "Color: Off-white",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.1,
+    "brand": "Daily Comforts",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "97",
+    "product_title": "Plastic Cotton Taqiyah",
+    "product_image": "https://i.ibb.co.com/Swv2xH3/plain-two.png",
+    "category": "Plain Taqiyah",
+    "price": 9.00,
+    "description": "Traditional cotton taqiyah, lightweight and breathable.",
+    "Specification": [
+      "Material: 100% Cotton",
+      "Size: One size fits most",
+      "Color: White",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Islamic Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "98",
+    "product_title": "Plastic Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/859dWKQ/embo-three.png",
+    "category": "Embroidered Taqiyah",
+    "price": 12.00,
+    "description": "Elegant taqiyah with intricate embroidery for special occasions.",
+    "Specification": [
+      "Material: Polyester blend",
+      "Size: Medium",
+      "Color: Black with Gold Embroidery",
+      "Pattern: Geometric Design"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "Muslim Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "99",
+    "product_title": "Plastic Crocheted Taqiyah",
+    "product_image": "https://i.ibb.co.com/XVgQKvY/hand-three.png",
+    "category": "Handmade Taqiyah",
+    "price": 11.00,
+    "description": "Handmade crocheted taqiyah for a unique style.",
+    "Specification": [
+      "Material: Cotton Yarn",
+      "Size: Adjustable",
+      "Color: White and Green",
+      "Pattern: Circular Crochet"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "brand": "Handcrafted Islamic",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "101",
+    "product_title": "Premium Silk Taqiyah",
+    "product_image": "https://i.ibb.co.com/MBY9cq3/lux-three.png",
+    "category": "Luxury Taqiyah",
+    "price": 27.00,
+    "description": "Luxurious silk taqiyah for formal occasions.",
+    "Specification": [
+      "Material: 100% Silk",
+      "Size: Large",
+      "Color: Navy Blue",
+      "Pattern: Solid with Satin Finish"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "brand": "Elegant Muslim Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "102",
+    "product_title": "Plastic Child Taqiyah",
+    "product_image": "https://i.ibb.co.com/J3KxJLG/kid-three.png",
+    "category": "Kids Taqiyah",
+    "price": 8.00,
+    "description": "Comfortable and lightweight taqiyah designed for children.",
+    "Specification": [
+      "Material: Soft Cotton",
+      "Size: Small (Child-size)",
+      "Color: Light Blue",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Little Muslims",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "103",
+    "product_title": "Plastic Travel Taqiyah",
+    "product_image": "https://i.ibb.co.com/180bwxS/tra-three.png",
+    "category": "Travel Taqiyah",
+    "price": 6.50,
+    "description": "Convenient foldable taqiyah for travelers.",
+    "Specification": [
+      "Material: Polyester",
+      "Size: One size fits most",
+      "Color: Grey",
+      "Pattern: Plain with Elastic Band"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Travel Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "104",
+    "product_title": "Plastic Breathable Taqiyah",
+    "product_image": "https://i.ibb.co.com/8ryc8fR/sport-three.png",
+    "category": "Sports Taqiyah",
+    "price": 4.50,
+    "description": "Breathable mesh taqiyah ideal for hot weather.",
+    "Specification": [
+      "Material: Mesh Polyester",
+      "Size: Medium",
+      "Color: White",
+      "Pattern: Mesh Design"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "brand": "Cool Comfort",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "105",
+    "product_title": "Turkish Plastic Style Taqiyah",
+    "product_image": "https://i.ibb.co.com/D5Lq5s3/cul-three.png",
+    "category": "Cultural Taqiyah",
+    "price": 17.00,
+    "description": "Authentic Turkish design taqiyah with detailed patterns.",
+    "Specification": [
+      "Material: Blended Fabric",
+      "Size: Large",
+      "Color: Maroon with Gold",
+      "Pattern: Traditional Turkish Embroidery"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "brand": "Ottoman Collection",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "106",
+    "product_title": "Plastic Kufi Taqiyah",
+    "product_image": "https://i.ibb.co.com/0Z83thC/tion-three.png",
+    "category": "Traditional Taqiyah",
+    "price": 12.00,
+    "description": "Simple and traditional kufi style taqiyah.",
+    "Specification": [
+      "Material: Acrylic",
+      "Size: One size fits all",
+      "Color: Black",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "brand": "Traditional Muslim Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "107",
+    "product_title": "Plastic Designer Taqiyah",
+    "product_image": "https://i.ibb.co.com/z7W1Nkb/fashion-three.png",
+    "category": "Fashion Taqiyah",
+    "price": 18.00,
+    "description": "Stylish designer taqiyah with unique patterns.",
+    "Specification": [
+      "Material: Wool Blend",
+      "Size: Adjustable",
+      "Color: Multi-color",
+      "Pattern: Abstract"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Muslim Fashion",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "108",
+    "product_title": "Festive Plastic Gold Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/PMzsFYK/fas-three.png",
+    "category": "Festive Wear",
+    "price": 16.00,
+    "description": "Beautiful gold-embroidered taqiyah for festive occasions.",
+    "Specification": [
+      "Material: Satin",
+      "Size: One size fits all",
+      "Color: White and Gold",
+      "Pattern: Ornamental"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Gold Shine Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "109",
+    "product_title": "Everyday Plastic Lightweight Taqiyah",
+    "product_image": "https://i.ibb.co.com/q0GVxzY/casuyal-three.png",
+    "category": "Casual Taqiyah",
+    "price": 7.00,
+    "description": "Affordable and lightweight taqiyah for daily wear.",
+    "Specification": [
+      "Material: Cotton",
+      "Size: Medium",
+      "Color: Off-white",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.1,
+    "brand": "Daily Comforts",
+    "warranty": "N/A"
+  },{
+    "product_id": "110",
+    "product_title": "Classic Cotton Taqiyah",
+    "product_image": "https://i.ibb.co.com/c2R18Zd/plain-one.png",
+    "category": "Plain Taqiyah",
+    "price": 10.00,
+    "description": "Traditional cotton taqiyah, lightweight and breathable.",
+    "Specification": [
+      "Material: 100% Cotton",
+      "Size: One size fits most",
+      "Color: White",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Islamic Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "111",
+    "product_title": "Classic Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/R4GPhZv/embo-one.png",
+    "category": "Embroidered Taqiyah",
+    "price": 15.00,
+    "description": "Elegant taqiyah with intricate embroidery for special occasions.",
+    "Specification": [
+      "Material: Polyester blend",
+      "Size: Medium",
+      "Color: Black with Gold Embroidery",
+      "Pattern: Geometric Design"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "Muslim Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "112",
+    "product_title": "Classical Crocheted Taqiyah",
+    "product_image": "https://i.ibb.co.com/gP32sZY/hand-one.png",
+    "category": "Handmade Taqiyah",
+    "price": 10.00,
+    "description": "Handmade crocheted taqiyah for a unique style.",
+    "Specification": [
+      "Material: Cotton Yarn",
+      "Size: Adjustable",
+      "Color: White and Green",
+      "Pattern: Circular Crochet"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "brand": "Handcrafted Islamic",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "113",
+    "product_title": "Premium Classic Silk Taqiyah",
+    "product_image": "https://i.ibb.co.com/jZqJB14/lux-one.png",
+    "category": "Luxury Taqiyah",
+    "price": 25.00,
+    "description": "Luxurious silk taqiyah for formal occasions.",
+    "Specification": [
+      "Material: 100% Silk",
+      "Size: Large",
+      "Color: Navy Blue",
+      "Pattern: Solid with Satin Finish"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "brand": "Elegant Muslim Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "114",
+    "product_title": "Classical Child Taqiyah",
+    "product_image": "https://i.ibb.co.com/zRZBLyC/kid-one.png",
+    "category": "Kids Taqiyah",
+    "price": 7.00,
+    "description": "Comfortable and lightweight taqiyah designed for children.",
+    "Specification": [
+      "Material: Soft Cotton",
+      "Size: Small (Child-size)",
+      "Color: Light Blue",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Little Muslims",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "115",
+    "product_title": "Classic Travel Taqiyah",
+    "product_image": "https://i.ibb.co.com/jLVVzbW/tra-one.png",
+    "category": "Travel Taqiyah",
+    "price": 7.50,
+    "description": "Convenient foldable taqiyah for travelers.",
+    "Specification": [
+      "Material: Polyester",
+      "Size: One size fits most",
+      "Color: Grey",
+      "Pattern: Plain with Elastic Band"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Travel Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "116",
+    "product_title": "Classic Breathable Taqiyah",
+    "product_image": "https://i.ibb.co.com/Mh9ycfr/sport-one.png",
+    "category": "Sports Taqiyah",
+    "price": 5.00,
+    "description": "Breathable mesh taqiyah ideal for hot weather.",
+    "Specification": [
+      "Material: Mesh Polyester",
+      "Size: Medium",
+      "Color: White",
+      "Pattern: Mesh Design"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "brand": "Cool Comfort",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "117",
+    "product_title": "Turkish classic Style Taqiyah",
+    "product_image": "https://i.ibb.co.com/0fWwqKc/cul-one.png",
+    "category": "Cultural Taqiyah",
+    "price": 14.00,
+    "description": "Authentic Turkish design taqiyah with detailed patterns.",
+    "Specification": [
+      "Material: Blended Fabric",
+      "Size: Large",
+      "Color: Maroon with Gold",
+      "Pattern: Traditional Turkish Embroidery"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "brand": "Ottoman Collection",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "118",
+    "product_title": "Classic Kufi Taqiyah",
+    "product_image": "https://i.ibb.co.com/cw8J89d/tion-one.png",
+    "category": "Traditional Taqiyah",
+    "price": 7.00,
+    "description": "Simple and traditional kufi style taqiyah.",
+    "Specification": [
+      "Material: Acrylic",
+      "Size: One size fits all",
+      "Color: Black",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "brand": "Traditional Muslim Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "119",
+    "product_title": "Classical Designer Taqiyah",
+    "product_image": "https://i.ibb.co.com/hDhZmyP/fashion-one.png",
+    "category": "Fashion Taqiyah",
+    "price": 12.00,
+    "description": "Stylish designer taqiyah with unique patterns.",
+    "Specification": [
+      "Material: Wool Blend",
+      "Size: Adjustable",
+      "Color: Multi-color",
+      "Pattern: Abstract"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Muslim Fashion",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "120",
+    "product_title": "Festive Classic Gold Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/TYB6vP7/fes-one.png",
+    "category": "Festive Wear",
+    "price": 18.00,
+    "description": "Beautiful gold-embroidered taqiyah for festive occasions.",
+    "Specification": [
+      "Material: Satin",
+      "Size: One size fits all",
+      "Color: White and Gold",
+      "Pattern: Ornamental"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Gold Shine Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "121",
+    "product_title": "Everyday classic Lightweight Taqiyah",
+    "product_image": "https://i.ibb.co.com/tM6ryJg/casual-one.png",
+    "category": "Casual Taqiyah",
+    "price": 5.00,
+    "description": "Affordable and lightweight taqiyah for daily wear.",
+    "Specification": [
+      "Material: Cotton",
+      "Size: Medium",
+      "Color: Off-white",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.1,
+    "brand": "Daily Comforts",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "122",
+    "product_title": "Meterial Cotton Taqiyah",
+    "product_image": "https://i.ibb.co.com/mF6TqKZ/plain-three.png",
+    "category": "Plain Taqiyah",
+    "price": 8.00,
+    "description": "Traditional cotton taqiyah, lightweight and breathable.",
+    "Specification": [
+      "Material: 100% Cotton",
+      "Size: One size fits most",
+      "Color: White",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Islamic Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "123",
+    "product_title": " Meterial Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/KKNY8fn/embo-two.png",
+    "category": "Embroidered Taqiyah",
+    "price": 16.00,
+    "description": "Elegant taqiyah with intricate embroidery for special occasions.",
+    "Specification": [
+      "Material: Polyester blend",
+      "Size: Medium",
+      "Color: Black with Gold Embroidery",
+      "Pattern: Geometric Design"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "Muslim Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "124",
+    "product_title": "Meterial Crocheted Taqiyah",
+    "product_image": "https://i.ibb.co.com/D45mmGd/hand-two.png",
+    "category": "Handmade Taqiyah",
+    "price": 12.00,
+    "description": "Handmade crocheted taqiyah for a unique style.",
+    "Specification": [
+      "Material: Cotton Yarn",
+      "Size: Adjustable",
+      "Color: White and Green",
+      "Pattern: Circular Crochet"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "brand": "Handcrafted Islamic",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "125",
+    "product_title": "Premium Metarial Silk Taqiyah",
+    "product_image": "https://i.ibb.co.com/r0phbNx/lux-two.png",
+    "category": "Luxury Taqiyah",
+    "price": 27.00,
+    "description": "Luxurious silk taqiyah for formal occasions.",
+    "Specification": [
+      "Material: 100% Silk",
+      "Size: Large",
+      "Color: Navy Blue",
+      "Pattern: Solid with Satin Finish"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "brand": "Elegant Muslim Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "126",
+    "product_title": "Meterial Child Taqiyah",
+    "product_image": "https://i.ibb.co.com/r71VxrR/kid-two.png",
+    "category": "Kids Taqiyah",
+    "price": 9.00,
+    "description": "Comfortable and lightweight taqiyah designed for children.",
+    "Specification": [
+      "Material: Soft Cotton",
+      "Size: Small (Child-size)",
+      "Color: Light Blue",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Little Muslims",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "127",
+    "product_title": "Meterial Travel Taqiyah",
+    "product_image": "https://i.ibb.co.com/1RzBzyQ/tra-two.png",
+    "category": "Travel Taqiyah",
+    "price": 9.50,
+    "description": "Convenient foldable taqiyah for travelers.",
+    "Specification": [
+      "Material: Polyester",
+      "Size: One size fits most",
+      "Color: Grey",
+      "Pattern: Plain with Elastic Band"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Travel Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "128",
+    "product_title": "Meterial Breathable Taqiyah",
+    "product_image": "https://i.ibb.co.com/CQs6B1g/sport-two.png",
+    "category": "Sports Taqiyah",
+    "price": 7.00,
+    "description": "Breathable mesh taqiyah ideal for hot weather.",
+    "Specification": [
+      "Material: Mesh Polyester",
+      "Size: Medium",
+      "Color: White",
+      "Pattern: Mesh Design"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "brand": "Cool Comfort",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "129",
+    "product_title": "Turkish Metarials Style Taqiyah",
+    "product_image": "https://i.ibb.co.com/grcyNpy/cul-two.png",
+    "category": "Cultural Taqiyah",
+    "price": 18.00,
+    "description": "Authentic Turkish design taqiyah with detailed patterns.",
+    "Specification": [
+      "Material: Blended Fabric",
+      "Size: Large",
+      "Color: Maroon with Gold",
+      "Pattern: Traditional Turkish Embroidery"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "brand": "Ottoman Collection",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "130",
+    "product_title": "Meterial Kufi Taqiyah",
+    "product_image": "https://i.ibb.co.com/0D5rRZz/tion-two.png",
+    "category": "Traditional Taqiyah",
+    "price": 10.00,
+    "description": "Simple and traditional kufi style taqiyah.",
+    "Specification": [
+      "Material: Acrylic",
+      "Size: One size fits all",
+      "Color: Black",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "brand": "Traditional Muslim Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "131",
+    "product_title": "Meterial Designer Taqiyah",
+    "product_image": "https://i.ibb.co.com/YkJkKwT/fashion-two.png",
+    "category": "Fashion Taqiyah",
+    "price": 16.00,
+    "description": "Stylish designer taqiyah with unique patterns.",
+    "Specification": [
+      "Material: Wool Blend",
+      "Size: Adjustable",
+      "Color: Multi-color",
+      "Pattern: Abstract"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Muslim Fashion",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "132",
+    "product_title": "Festive Metarial Gold Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/5WBNyHW/fas-two.png",
+    "category": "Festive Wear",
+    "price": 12.00,
+    "description": "Beautiful gold-embroidered taqiyah for festive occasions.",
+    "Specification": [
+      "Material: Satin",
+      "Size: One size fits all",
+      "Color: White and Gold",
+      "Pattern: Ornamental"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Gold Shine Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "133",
+    "product_title": "Everyday Metarial Lightweight Taqiyah",
+    "product_image": "https://i.ibb.co.com/DQkDZHX/casuyal-two.png",
+    "category": "Casual Taqiyah",
+    "price": 6.00,
+    "description": "Affordable and lightweight taqiyah for daily wear.",
+    "Specification": [
+      "Material: Cotton",
+      "Size: Medium",
+      "Color: Off-white",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.1,
+    "brand": "Daily Comforts",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "134",
+    "product_title": "Plastic Cotton Taqiyah",
+    "product_image": "https://i.ibb.co.com/Swv2xH3/plain-two.png",
+    "category": "Plain Taqiyah",
+    "price": 9.00,
+    "description": "Traditional cotton taqiyah, lightweight and breathable.",
+    "Specification": [
+      "Material: 100% Cotton",
+      "Size: One size fits most",
+      "Color: White",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Islamic Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "135",
+    "product_title": "Plastic Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/859dWKQ/embo-three.png",
+    "category": "Embroidered Taqiyah",
+    "price": 12.00,
+    "description": "Elegant taqiyah with intricate embroidery for special occasions.",
+    "Specification": [
+      "Material: Polyester blend",
+      "Size: Medium",
+      "Color: Black with Gold Embroidery",
+      "Pattern: Geometric Design"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "Muslim Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "136",
+    "product_title": "Plastic Crocheted Taqiyah",
+    "product_image": "https://i.ibb.co.com/XVgQKvY/hand-three.png",
+    "category": "Handmade Taqiyah",
+    "price": 11.00,
+    "description": "Handmade crocheted taqiyah for a unique style.",
+    "Specification": [
+      "Material: Cotton Yarn",
+      "Size: Adjustable",
+      "Color: White and Green",
+      "Pattern: Circular Crochet"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "brand": "Handcrafted Islamic",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "137",
+    "product_title": "Premium Silk Taqiyah",
+    "product_image": "https://i.ibb.co.com/MBY9cq3/lux-three.png",
+    "category": "Luxury Taqiyah",
+    "price": 27.00,
+    "description": "Luxurious silk taqiyah for formal occasions.",
+    "Specification": [
+      "Material: 100% Silk",
+      "Size: Large",
+      "Color: Navy Blue",
+      "Pattern: Solid with Satin Finish"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "brand": "Elegant Muslim Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "138",
+    "product_title": "Plastic Child Taqiyah",
+    "product_image": "https://i.ibb.co.com/J3KxJLG/kid-three.png",
+    "category": "Kids Taqiyah",
+    "price": 8.00,
+    "description": "Comfortable and lightweight taqiyah designed for children.",
+    "Specification": [
+      "Material: Soft Cotton",
+      "Size: Small (Child-size)",
+      "Color: Light Blue",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Little Muslims",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "139",
+    "product_title": "Plastic Travel Taqiyah",
+    "product_image": "https://i.ibb.co.com/180bwxS/tra-three.png",
+    "category": "Travel Taqiyah",
+    "price": 6.50,
+    "description": "Convenient foldable taqiyah for travelers.",
+    "Specification": [
+      "Material: Polyester",
+      "Size: One size fits most",
+      "Color: Grey",
+      "Pattern: Plain with Elastic Band"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Travel Essentials",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "140",
+    "product_title": "Plastic Breathable Taqiyah",
+    "product_image": "https://i.ibb.co.com/8ryc8fR/sport-three.png",
+    "category": "Sports Taqiyah",
+    "price": 4.50,
+    "description": "Breathable mesh taqiyah ideal for hot weather.",
+    "Specification": [
+      "Material: Mesh Polyester",
+      "Size: Medium",
+      "Color: White",
+      "Pattern: Mesh Design"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "brand": "Cool Comfort",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "141",
+    "product_title": "Turkish Plastic Style Taqiyah",
+    "product_image": "https://i.ibb.co.com/D5Lq5s3/cul-three.png",
+    "category": "Cultural Taqiyah",
+    "price": 17.00,
+    "description": "Authentic Turkish design taqiyah with detailed patterns.",
+    "Specification": [
+      "Material: Blended Fabric",
+      "Size: Large",
+      "Color: Maroon with Gold",
+      "Pattern: Traditional Turkish Embroidery"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "brand": "Ottoman Collection",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "142",
+    "product_title": "Plastic Kufi Taqiyah",
+    "product_image": "https://i.ibb.co.com/0Z83thC/tion-three.png",
+    "category": "Traditional Taqiyah",
+    "price": 12.00,
+    "description": "Simple and traditional kufi style taqiyah.",
+    "Specification": [
+      "Material: Acrylic",
+      "Size: One size fits all",
+      "Color: Black",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "brand": "Traditional Muslim Wear",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "143",
+    "product_title": "Plastic Designer Taqiyah",
+    "product_image": "https://i.ibb.co.com/z7W1Nkb/fashion-three.png",
+    "category": "Fashion Taqiyah",
+    "price": 18.00,
+    "description": "Stylish designer taqiyah with unique patterns.",
+    "Specification": [
+      "Material: Wool Blend",
+      "Size: Adjustable",
+      "Color: Multi-color",
+      "Pattern: Abstract"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Muslim Fashion",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "144",
+    "product_title": "Festive Plastic Gold Embroidered Taqiyah",
+    "product_image": "https://i.ibb.co.com/PMzsFYK/fas-three.png",
+    "category": "Festive Wear",
+    "price": 16.00,
+    "description": "Beautiful gold-embroidered taqiyah for festive occasions.",
+    "Specification": [
+      "Material: Satin",
+      "Size: One size fits all",
+      "Color: White and Gold",
+      "Pattern: Ornamental"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Gold Shine Attire",
+    "warranty": "N/A"
+  },
+  {
+    "product_id": "145",
+    "product_title": "Everyday Plastic Lightweight Taqiyah",
+    "product_image": "https://i.ibb.co.com/q0GVxzY/casuyal-three.png",
+    "category": "Casual Taqiyah",
+    "price": 7.00,
+    "description": "Affordable and lightweight taqiyah for daily wear.",
+    "Specification": [
+      "Material: Cotton",
+      "Size: Medium",
+      "Color: Off-white",
+      "Pattern: Plain"
+    ],
+    "availability": true,
+    "rating": 4.1,
+    "brand": "Daily Comforts",
+    "warranty": "N/A"
+  }
+]
