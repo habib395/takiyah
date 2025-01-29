@@ -40,3 +40,6 @@ const ItemCard = () => {
 };
 
 export default ItemCard;
+
+
+// git remote add origin https://github.com/habib395/takiyah.git
