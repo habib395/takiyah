@@ -153,7 +153,7 @@ const Slider = () => {
               flexBasis: `${100 / visibleImages}%`,
             }}
           >
-            <img src={src} alt={`Slide ${index}`} className="w-full h-[70px] sm:h-[140px]" />
+            <img src={src} alt={`Slide ${index}`} className="w-full h-[70px] sm:h-[100px]" />
           </div>
         ))}
       </div>

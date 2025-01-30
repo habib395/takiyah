@@ -3,6 +3,8 @@ import { Outlet, useLoaderData } from "react-router-dom";
 import Items from "../Items";
 import Slider from "../Slider";
 import { MdDarkMode, MdLightMode } from "react-icons/md";
+import Item from "../Item";
+import Banner from "./Banner";
 const Home = () => {
   const items = useLoaderData()
   const [taqiyah, setTaqiyah] = useState([]);
@@ -28,10 +30,9 @@ const Home = () => {
     <div  className="dark:bg-gray-900 dark:text-white">
       {/* slider section start here */}
       <Slider></Slider>
-      {/* slider section end here */}
-      {/* hero banner section  start here */}
-      {/* <div className="dark:bg-gray-900 dark:text-white"> */}
-      <div
+
+    {/* dark theme related banner section */}
+      {/* <div
         className="hero min-h-screen"
         style={{
           backgroundImage:
@@ -51,11 +52,11 @@ const Home = () => {
            </div>
           </div>
         </div>
-      </div>
+      </div> */}
       {/* hero banner section  end here */}
       {/* items section start here */}
-      <div className='w-10/12 mx-auto sm:grid sm:grid-cols-5 gap-4 py-5'>
-        <div className='col-span-1'>
+      <div className='sm:grid sm:grid-cols-5 gap-4 py-5'>
+        <div className='col-span-1 overflow-y-auto max-h-[500px]'>
             <Items items={items}></Items>
         </div>
         <div className='col-span-4 grid grid-cols-4 gap-3'>
