@@ -1,9 +1,9 @@
-import React from "react";
+
 import { Link } from "react-router-dom";
 
 const Cards = ({ item }) => {
   const { product_id, product_title, product_image, price, category } = item;
-  console.log(item);
+  // console.log(item);
   return (
     <div>
       <Link to={`/item/${product_id}`}>
@@ -27,7 +27,7 @@ const Cards = ({ item }) => {
               {product_title}
             </h2>
             <div className="flex items-center justify-center gap-3">
-              <h6 className="md:text-xl text-blue-500 font-semibold">
+              <h6 className="md:text-base text-blue-500 font-semibold">
                 Price: $ {price}
               </h6>
               <h6 className="md:text-sm text-gray-400">
